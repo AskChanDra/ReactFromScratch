@@ -1,5 +1,26 @@
 # React JS from Scratch
 
+
+### How to run?
+
+- First install npm package
+
+```js
+npm install
+```
+
+- Start development 
+
+```bash
+npm run start:dev
+```
+
+- To build 
+
+```bash
+npm run build
+```
+
 ### Steps
 
 - Node package : `package.json` , `npm init`
